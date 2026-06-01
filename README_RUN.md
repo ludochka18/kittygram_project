@@ -73,7 +73,3 @@ npm start
 
 Frontend будет доступен по адресу:
 http://localhost:3000/
-
-Лилия
-
-Junior Python Backend Developer
