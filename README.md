@@ -15,19 +15,19 @@ Kittygram — веб-приложение для публикации инфор
 8. взаимодействие frontend и backend через API.
 
 Стек технологий Backend: 
-Python 
-Django 
-Django REST Framework 
-Djoser 
-SQLite 
-Pillow django-cors-headers
+Python,
+Django,
+Django REST Framework,
+Djoser, 
+SQLite,
+Pillow django-cors-headers.
 
 Frontend: 
-React 
-React Router 
-JavaScript 
-CSS 
-API
+React,
+React Router, 
+JavaScript, 
+CSS,
+API.
 
 Основные эндпоинты:
 1. /api/cats/
@@ -41,6 +41,7 @@ API
 cd backend
 
 Создать и активировать виртуальное окружение: python -m venv venv, source venv/bin/activate
+
 Для Windows: venv\Scripts\activate
 
 Установить зависимости: pip install -r requirements.txt
